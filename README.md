@@ -1,4 +1,4 @@
-ofxSimpleButton
-===============
+stub-template-ofx-SimpleButton
+==============================
 
-simple button
+[stub](https://github.com/xdbr/stub) template for a simple open frameworks button
